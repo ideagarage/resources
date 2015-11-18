@@ -1,7 +1,6 @@
-# resources
-Resources Bookmark
+# Resources Bookmark
 
-# React & Stuff
+## React & Stuff
 
 [ComponentKit | Getting Started] (http://componentkit.org/docs/getting-started.html)
 
